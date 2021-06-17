@@ -1,0 +1,24 @@
+h2{
+    color: rgb(16, 16, 58);
+}
+
+h1{
+    color: lightgray;
+}
+
+h3{
+    font-family: cursive;
+    color: rgb(177, 117, 6);
+}
+
+p{
+    font-family:initial
+}
+
+.navitem{
+    color: black;
+}
+
+.navbar-toggler{
+    color: black;
+}
